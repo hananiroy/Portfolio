@@ -47,7 +47,6 @@ export const About = () => {
               </div>
               <div className="mt-5 flex items-center justify-between">
                 <span className="font-body text-xs uppercase tracking-[0.2em] text-[#4a3022]">UiTM — Netcentric Computing</span>
-                <span className="font-serif-display italic text-xl text-[#4a3022]">CGPA 3.43</span>
               </div>
             </Reveal>
           </div>

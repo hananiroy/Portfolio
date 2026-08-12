@@ -9,7 +9,6 @@ export const PROFILE = {
     "Exploring technology. Building solutions. Solving problems.",
   location: "Kuala Lumpur, Malaysia",
   email: "hananiroy@gmail.com",
-  phone: "014-397 7780",
   github: "https://github.com/",
   linkedin: "https://www.linkedin.com/in/nurizzah-hanani/",
   resume: "/resume.pdf",
@@ -23,7 +22,7 @@ export const ABOUT = {
     {
       no: "01",
       title: "The Foundation",
-      body: "Bachelor of Computer Science (Hons.) in Netcentric Computing at UiTM (CGPA 3.43). Coursework spanned computer networks, network security, distributed systems, web & mobile development, cybersecurity, IoT and software engineering. It is a broad base that lets me move comfortably between the front-end, the back-end and the network layer.",
+      body: "Bachelor of Computer Science (Hons.) in Netcentric Computing at UiTM. Coursework spanned computer networks, network security, distributed systems, web & mobile development, cybersecurity, IoT and software engineering. It is a broad base that lets me move comfortably between the front-end, the back-end and the network layer.",
     },
     {
       no: "02",
