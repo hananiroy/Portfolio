@@ -61,8 +61,8 @@ export const Contact = () => {
             <span className="font-body text-[11px] uppercase tracking-[0.2em] text-[#d4bca9]">Resume</span>
             <div className="mt-4">
               <a
-                data-testid="contact-resume"
-                href={PROFILE.resume}
+                data-testid="contact-resumee"
+                href={PROFILE.resumee}
                 download
                 className="link-underline w-fit font-body text-lg text-[#fdfbf7]"
               >

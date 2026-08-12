@@ -113,8 +113,8 @@ export const Hero = () => {
             </button>
 
             <a
-              data-testid="hero-download-resume"
-              href={PROFILE.resume}
+              data-testid="hero-download-resumee"
+              href={PROFILE.resumee}
               download
               className="group flex items-center gap-2 rounded-full border border-[#0a0a0a]/25 px-7 py-3.5 font-body text-sm tracking-wide text-[#0a0a0a] transition-colors duration-300 hover:border-[#0a0a0a]"
             >

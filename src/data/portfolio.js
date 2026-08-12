@@ -11,7 +11,7 @@ export const PROFILE = {
   email: "hananiroy@gmail.com",
   github: "https://github.com/",
   linkedin: "https://www.linkedin.com/in/nurizzah-hanani/",
-  resume: "/resume.pdf",
+  resumee: "/resumee.pdf",
   availability: "Open to roles in IT applications, software development, AI & cybersecurity",
 };
 

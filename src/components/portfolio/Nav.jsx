@@ -56,8 +56,8 @@ export const Nav = () => {
             </button>
           ))}
           <a
-            data-testid="nav-resume"
-            href={PROFILE.resume}
+            data-testid="nav-resumee"
+            href={PROFILE.resumee}
             download
             className="group relative overflow-hidden rounded-full border border-[#0a0a0a] px-6 py-2.5 text-sm tracking-wide text-[#0a0a0a] transition-colors duration-500 hover:text-[#fdfbf7]"
           >
@@ -100,7 +100,7 @@ export const Nav = () => {
                 </button>
               ))}
               <a
-                href={PROFILE.resume}
+                href={PROFILE.resumee}
                 download
                 className="mt-2 rounded-full bg-[#0a0a0a] px-6 py-3 text-center text-sm text-[#fdfbf7]"
               >
