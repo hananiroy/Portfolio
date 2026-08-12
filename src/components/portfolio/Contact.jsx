@@ -52,7 +52,7 @@ export const Contact = () => {
             </div>
           </div>
           <div>
-            <span className="font-body text-[11px] uppercase tracking-[0.2em] text-[#d4bca9]">Contact</span>
+            <span className="font-body text-[11px] uppercase tracking-[0.2em] text-[#d4bca9]">Location</span>
             <div className="mt-4 flex flex-col gap-2">
               <span className="font-body text-lg text-[#fdfbf7]/85">{PROFILE.location}</span>
             </div>
